@@ -1,0 +1,2 @@
+-Le dossier donneesExterieures est dedié pour le test de l'application.
+-L'application a besoin de la dataset pour fonctionner.
